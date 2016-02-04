@@ -23,5 +23,4 @@ class AbstractPage
 	def getPageTitle
 		return @@browser.title
 	end
-
 end
